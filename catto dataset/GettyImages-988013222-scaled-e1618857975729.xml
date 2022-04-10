@@ -1,0 +1,26 @@
+<annotation>
+	<folder>catto</folder>
+	<filename>GettyImages-988013222-scaled-e1618857975729.jpg</filename>
+	<path>C:\Users\20101073\Downloads\catto\GettyImages-988013222-scaled-e1618857975729.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1670</width>
+		<height>1670</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>catto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>73</ymin>
+			<xmax>1363</xmax>
+			<ymax>1278</ymax>
+		</bndbox>
+	</object>
+</annotation>
